@@ -2,6 +2,7 @@ name: lolocal
 favicon: null
 layout_spectrum: 0.04150477587245405
 typography_spectrum: 0.542224066099152
+title: lolocal
 cta:
   domain: null
   bucket: null
